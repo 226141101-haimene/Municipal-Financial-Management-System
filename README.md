@@ -1,35 +1,33 @@
 Municipal Financial Management System (MFMS)
 
-📌 Project Overview
+Group Number
 
-The Municipal Financial Management System (MFMS) is a C programming project designed to help manage municipal financial activities.
+[Enter your group number]
 
-🎯 Project Objectives
+Group Members
 
-- Manage municipal budgets.
-- Manage employee information.
-- Organize financial information.
-- Improve the management of municipal resources.
+[List the names and student numbers of all 7 members]
 
-🧩 Project Modules
+Project Description
 
-1. Budget Management
+A C program for managing municipal financial activities.
 
-Handles municipal budget information and budget-related operations.
+System Features
 
-2. Employee Management
+- Employee Management
+- Budget Management
+- Supplier Management
+- Asset Management
+- Reports
 
-Handles employee information and related operations.
+Individual Responsibilities
 
-🛠️ Technologies Used
+Each group member will contribute to an assigned module.
 
-- C Programming Language
-- GitHub for version control
+Compilation Instructions
 
-👥 Group Project
+Compile the C source files using GCC.
 
-This project is developed as part of a group assignment.
+How to Run
 
-📂 Project Files
-
-The repository contains C source files (".c") and header files (".h") for the different modules of the system.
+Run the compiled program from the terminal.
