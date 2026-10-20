@@ -1,33 +1,37 @@
-Municipal Financial Management System (MFMS)
+# MFMS – Municipal Financial Management System
 
-Group Number
+**Course:** PAP521S – Programming in Practice  
+**Project:** Project A  
+**Language:** C (C99)  
+**Group:** []  
+**Repository:** https://github.com/JHafeni/MFMS
 
-[Enter your group number]
+## Project Description
 
-Group Members
+The Municipal Financial Management System (MFMS) is a C program that helps a municipality manage employees, budgets, suppliers, assets, and reports.
 
-[List the names and student numbers of all 7 members]
+## My Role: Reports
 
-Project Description
+My responsibility is to develop the Reports module.
 
-A C program for managing municipal financial activities.
+The module allows users to:
 
-System Features
+- Display employee reports.
+- Display budget reports.
+- Display registered suppliers.
+- Display registered municipal assets.
+- Show total allocated budgets and expenditure.
+- Identify departments that exceed their budgets.
+- Calculate the average, highest, and lowest employee salaries.
 
-- Employee Management
-- Budget Management
-- Supplier Management
-- Asset Management
-- Reports
+## Purpose of the Reports Module
 
-Individual Responsibilities
+The Reports module helps users view important information about municipal employees, budgets, suppliers, and assets in an organised way.
 
-Each group member will contribute to an assigned module.
+## Programming Concepts
 
-Compilation Instructions
+The module uses variables, arrays, loops, conditions, and functions to process and display information.
 
-Compile the C source files using GCC.
+## Individual Responsibility
 
-How to Run
-
-Run the compiled program from the terminal.
+I am responsible for developing and testing the Reports module to ensure that the information displayed is accurate and easy to understand.
