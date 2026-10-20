@@ -1,33 +1,25 @@
-Municipal Financial Management System (MFMS)
+ Municipal Financial Management System (MFMS)
 
-Group Number
+ Group Information
+Group Number: [Your group number]
+Course: PAP521S – Programming in Practice
+Language: ANSI C (C99)
 
-[Enter your group number]
+ Group Members
+[Your Name] - [Student Number] - Asset Management
 
-Group Members
+ Project Description
+A menu-driven C application that maintains a basic municipal asset
+register. This is the foundation version (Project A) of the Municipal
+Financial Management System.
 
-[List the names and student numbers of all 7 members]
+ System Features
+- Add an asset (with input validation)
+- Display all registered assets
+- Search for an asset by ID or exact name
+- Menu-driven navigation
 
-Project Description
+ Compilation
+Requires GCC (C99):
 
-A C program for managing municipal financial activities.
-
-System Features
-
-- Employee Management
-- Budget Management
-- Supplier Management
-- Asset Management
-- Reports
-
-Individual Responsibilities
-
-Each group member will contribute to an assigned module.
-
-Compilation Instructions
-
-Compile the C source files using GCC.
-
-How to Run
-
-Run the compiled program from the terminal.
+    gcc main.c assets.c -o mfms
