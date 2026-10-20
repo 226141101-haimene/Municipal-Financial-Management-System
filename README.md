@@ -8,7 +8,7 @@ Group Members
 
 [1.Haimene Penda 226141101
 2.Inga N Kondo 225085321]
-
+3. Jamie Hango 223050261
 Project Description
 
 A C program for managing municipal financial activities.
