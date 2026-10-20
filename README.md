@@ -7,7 +7,7 @@ Group Number
 Group Members
 
 [1.Haimene Penda 226141101
-Inga N Kondo 225085321]
+2.Inga N Kondo 225085321]
 
 Project Description
 
