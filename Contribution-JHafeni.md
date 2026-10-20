@@ -95,5 +95,5 @@ How the module integrates with main.c via the budgetMenu() function
 Declaration
 I confirm that the work described above is my own individual contribution to the group project. I have not submitted another group member's work as my own.
 
-Signed: [Your Full Name]
-Date:  October 2026
+Signed: [Jamie Hango]
+Date: 20 October 2026
