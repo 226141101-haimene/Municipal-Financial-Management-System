@@ -2,11 +2,12 @@ Municipal Financial Management System (MFMS)
 
 Group Number
 
-[Enter your group number]
+[28]
 
 Group Members
 
-[List the names and student numbers of all 7 members]
+[1.Haimene Penda 226141101
+Inga N Kondo 225085321]
 
 Project Description
 
